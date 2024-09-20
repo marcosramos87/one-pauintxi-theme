@@ -1,0 +1,44 @@
+{
+  "name": "one-pauintxi-theme",
+  "displayName": "One Pauintxi Theme",
+  "description": "Dark theme for vscode",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "keywords": [
+    "one",
+    "pauintxi",
+    "dark",
+    "theme",
+    "color-theme"
+  ],
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Pauintxi Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/one-pauintxi-blue.json"
+      },
+      {
+        "label": "One Pauintxi Orange",
+        "uiTheme": "vs-dark",
+        "path": "./themes/one-pauintxi-orange.json"
+      },
+      {
+        "label": "One Pauintxi Blue++",
+        "uiTheme": "vs-dark",
+        "path": "./themes/one-pauintxi-all-blue.json"
+      },
+      {
+        "label": "One Pauintxi Orange++",
+        "uiTheme": "vs-dark",
+        "path": "./themes/one-pauintxi-all-orange.json"
+      }
+    ]
+  }
+}
