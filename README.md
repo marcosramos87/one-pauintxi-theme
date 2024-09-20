@@ -8,19 +8,19 @@
 
 ### One Pauintxi Theme Orange
 
-![JS/TS Screenshot](./screenshots/one_pauintxi_orange.png)
+![One Pauintxi Theme Orange Screenshot](https://raw.githubusercontent.com/marcosramos87/one-pauintxi-vscode-theme/main/screenshots/one_pauintxi_orange.png)
 
 ### One Pauintxi Theme Orange++
 
-![HTML Screenshot](./screenshots/one_pauintxi_orange++.png)
+![One Pauintxi Theme Orange++ Screenshot](https://raw.githubusercontent.com/marcosramos87/one-pauintxi-vscode-theme/main/screenshots/one_pauintxi_orange++.png)
 
 ### One Pauintxi Theme Blue
 
-![Python Screenshot](./screenshots/one_pauintxi_blue.png)
+![One Pauintxi Theme Blue Screenshot](https://raw.githubusercontent.com/marcosramos87/one-pauintxi-vscode-theme/main/screenshots/one_pauintxi_blue.png)
 
 ### One Pauintxi Theme Blue++
 
-![Python Screenshot](./screenshots/one_pauintxi_blue++.png)
+![One Pauintxi Theme Blue++ Screenshot](https://raw.githubusercontent.com/marcosramos87/one-pauintxi-vscode-theme/main/screenshots/one_pauintxi_blue++.png)
 
 ## Features
 
@@ -55,7 +55,7 @@ Contributions are welcome! Feel free to fork the repository and create a pull re
 
 ## License
 
-This theme is licensed under the [MIT License](LICENSE).
+This theme is licensed under the [MIT License](https://github.com/marcosramos87/one-pauintxi-vscode-theme/tree/main?tab=MIT-1-ov-file).
 
 ---
 
