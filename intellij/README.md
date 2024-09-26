@@ -1,6 +1,6 @@
-# One Pauintxi Theme - VS Code
+# One Pauintxi Theme - IntelliJ IDEA Community 2024
 
-**One Pauintxi Theme** is a sleek, minimalist dark theme for Visual Studio Code, inspired by the popular One Dark theme. It’s designed for developers who enjoy a visually comfortable coding environment with high contrast and vibrant colors that enhance readability without straining the eyes.
+**One Pauintxi Theme** is a sleek, minimalist dark theme for **IntelliJ IDEA Community 2024**, inspired by the popular One Dark theme. It’s designed for developers who enjoy a visually comfortable coding environment with high contrast and vibrant colors that enhance readability without straining the eyes.
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/marcosramon)
 
@@ -8,19 +8,7 @@
 
 ### One Pauintxi Theme Blue++
 
-![One Pauintxi Theme Blue++ Screenshot](https://raw.githubusercontent.com/marcosramos87/one-pauintxi-theme/main/vscode/screenshots/one_pauintxi_blue++.png)
-
-### One Pauintxi Theme Blue
-
-![One Pauintxi Theme Blue Screenshot](https://raw.githubusercontent.com/marcosramos87/one-pauintxi-theme/main/vscode/screenshots/one_pauintxi_blue.png)
-
-### One Pauintxi Theme Orange++
-
-![One Pauintxi Theme Orange++ Screenshot](https://raw.githubusercontent.com/marcosramos87/one-pauintxi-theme/main/vscode/screenshots/one_pauintxi_orange++.png)
-
-### One Pauintxi Theme Orange
-
-![One Pauintxi Theme Orange Screenshot](https://raw.githubusercontent.com/marcosramos87/one-pauintxi-theme/main/vscode/screenshots/one_pauintxi_orange.png)
+![One Pauintxi Theme Blue++ Screenshot](https://raw.githubusercontent.com/marcosramos87/one-pauintxi-theme/main/intellij/screenshots/one_pauintxi_blue++.png)
 
 ## Features
 
@@ -28,22 +16,24 @@
 - 🎨 **High Contrast**: Clear distinction between keywords, strings, comments, and other syntax elements.
 - ✨ **Inspired by One Dark**: Familiar to users of One Dark, but with subtle tweaks for a more refined experience.
 - 🖼️ **Beautiful UI Elements**: Custom styling for UI elements such as sidebars, tabs, and the status bar to integrate seamlessly with the dark theme.
-- 🔧 **Language Support**: Optimized for various languages, including JavaScript, TypeScript, Python, HTML, CSS, and more.
+- 🔧 **Language Support**: Optimized for various languages, including Java, Kotlin, Python, HTML, CSS, JavaScript, TypeScript, and more.
 
 ## Installation
 
-1. Open **Extensions** in VS Code by clicking on the Extensions icon in the Activity Bar on the side of the window or by pressing `Ctrl+Shift+X`.
-2. Search for `One Pauintxi Theme`.
-3. Click **Install**.
-4. Go to **Preferences** > **Color Theme** and choose `One Pauintxi Theme` from the list.
+1. Open **IntelliJ IDEA**.
+2. Go to **File** > **Settings** > **Plugins**.
+3. Click on **Marketplace** and search for `One Pauintxi Theme`.
+4. Click **Install**.
+5. Go to **File** > **Settings** > **Appearance & Behavior** > **Appearance**.
+6. Under **Theme**, select `One Pauintxi Theme` from the list and apply the changes.
 
 ## Customization
 
-If you want to further tweak the theme to your liking, you can customize it by following these steps:
+If you want to tweak the theme to your liking, you can customize it by following these steps:
 
-1. Open **Command Palette** (`Ctrl+Shift+P`).
-2. Select **Preferences: Open Settings (JSON)**.
-3. Add customizations under the `workbench.colorCustomizations` field.
+1. Go to **File** > **Settings** > **Editor** > **Color Scheme**.
+2. Choose the color scheme you want to modify.
+3. Customize the colors according to your preferences and save the changes.
 
 ## Issues & Feedback
 
