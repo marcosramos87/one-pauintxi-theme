@@ -1,42 +1,42 @@
 {
-  "name": "One Pauintxi Blue++",
+  "name": "One Pauintxi Orange",
   "author": "Marcos Ramos Adsuara",
-  "editorScheme": "/theme/scheme/one-pauintxi-all-blue.xml",
+  "editorScheme": "/theme/scheme/one-pauintxi-orange.xml",
   "parentTheme": "ExperimentalDark",
   "dark": true,
   "colors": {
-    "Black": "#181825",
+    "Black": "#181818",
     "White": "#ffffff",
     "GrayA": "#b1bac4",
     "GrayB": "#8b949e",
-    "GrayC": "#303032",
+    "GrayC": "#303030",
     "GrayD": "#21262d",
     "GrayE": "#161b22",
     "BlueA": "#49a3a6",
-    "BlueB": "#49a3a640",
-    "BlueC": "#49a3a680",
     "GreenA": "#71b57d",
     "YellowA": "#ecdbb5",
     "YellowB": "#8a651f",
     "OrangeA": "#db9a35",
+    "OrangeB": "#db9a3540",
+    "OrangeC": "#db9a3580",
     "RedA": "#f48185",
     "RedB": "#df4649",
     "PurpleA": "#9e4297",
 
-    "defaultBorderColor": "#181825",
-    "defaultBackgroundColor": "#202030"
+    "defaultBorderColor": "#181818",
+    "defaultBackgroundColor": "#202020"
   },
   "ui": {
     "*" : {
       "fontFace": "JetBrains Mono",
       "fontSize": 12,
-      "foreground": "BlueA",
+      "foreground": "YellowA",
       "background":  "defaultBackgroundColor",
       "borderColor": "defaultBorderColor",
       "hoverBackground": "GrayC",
-      "focusColor": "BlueA",
-      "selectionBackground": "BlueB",
-      "selectionForeground": "BlueA",
+      "focusColor": "OrangeA",
+      "selectionBackground": "OrangeB",
+      "selectionForeground": "OrangeA",
       "selectionInactiveForeground": "GrayA",
       "selectionInactiveBackground": "GrayE",
       "lightSelectionBackground": "defaultBackgroundColor",
@@ -48,7 +48,7 @@
       "disabledBorderColor": "GrayC",
       "separatorColor": "defaultBorderColor",
       "separatorForeground": "GrayB",
-      "underlineColor": "BlueA"
+      "underlineColor": "OrangeA"
     },
 
     "ActionButton": {
@@ -82,7 +82,7 @@
         "foreground": "GrayE"
       },
       "MnemonicCurrent": {
-        "background": "BlueB"
+        "background": "OrangeB"
       }
     },
     "Borders": {
@@ -99,23 +99,23 @@
       "focusedBorderColor": "GrayE",
       "shadowColor": "GrayE",
       "default": {
-        "foreground": "Black",
-        "startBackground": "BlueA",
-        "endBackground": "BlueA",
-        "startBorderColor": "BlueA",
-        "endBorderColor": "BlueA",
-        "focusedBorderColor": "BlueA",
-        "focusColor": "BlueA",
-        "shadowColor": "BlueA"
+        "foreground": "YellowA",
+        "startBackground": "OrangeA",
+        "endBackground": "OrangeA",
+        "startBorderColor": "OrangeA",
+        "endBorderColor": "OrangeA",
+        "focusedBorderColor": "OrangeA",
+        "focusColor": "OrangeA",
+        "shadowColor": "OrangeA"
       }
     },
     "CheckBox": {
       "background": "defaultBackgroundColor",
-      "foreground": "BlueA",
+      "foreground": "YellowA",
       "disabledText": "GrayB"
     },
     "CheckBoxMenuItem": {
-      "foreground": "BlueA",
+      "foreground": "YellowA",
       "background": "GrayD",
       "selectionForeground": "White",
       "selectionBackground": "GrayD",
@@ -126,11 +126,11 @@
     },
     "ComboBox": {
       "background": "defaultBackgroundColor",
-      "foreground": "BlueA",
+      "foreground": "YellowA",
       "nonEditableBackground": "GrayD",
       "ArrowButton": {
         "background": "defaultBackgroundColor",
-        "iconColor": "BlueA",
+        "iconColor": "OrangeA",
         "disabledIconColor": "GrayD",
         "nonEditableBackground": "GrayD"
       }
@@ -152,10 +152,10 @@
       "border": "1,1,1,1,#21262d"
     },
     "CompletionPopup": {
-      "foreground": "BlueA",
-      "matchForeground": "BlueC",
+      "foreground": "YellowA",
+      "matchForeground": "OrangeC",
       "Advertiser": {
-        "foreground": "BlueA",
+        "foreground": "YellowA",
         "background": "defaultBackgroundColor",
         "borderInsets": "4,12,3,8"
       }
@@ -170,16 +170,16 @@
     },
     "Counter": {
       "background": "defaultBackgroundColor",
-      "foreground": "BlueA"
+      "foreground": "YellowA"
     },
     "DefaultTabs": {
       "background": "GrayC",
       "hoverBackground": "GrayC",
       "borderColor": "defaultBorderColor",
-      "underlineColor": "BlueA",
+      "underlineColor": "OrangeA",
       "underlineHeight": "",
       "underlinedTabBackground": "GrayC",
-      "inactiveUnderlineColor": "BlueA",
+      "inactiveUnderlineColor": "OrangeA",
       "underlinedTabForeground": "White"
     },
     "Debugger": {
@@ -205,7 +205,7 @@
       "underlinedTabBackground": ""
     },
     "DragAndDrop": {
-      "borderColor": "BlueA",
+      "borderColor": "OrangeA",
       "rowBackground": "#1f6feb40"
     },
     "Editor": {
@@ -224,10 +224,10 @@
       "background": "Black",
       "hoverBackground": "GrayE",
       "inactiveBackground": "GrayG",
-      "underlineColor": "BlueB",
-      "underlinedTabBackground": "BlueB",
-      "underlinedTabForeground": "BlueA",
-      "inactiveUnderlineColor": "BlueB",
+      "underlineColor": "OrangeB",
+      "underlinedTabBackground": "OrangeB",
+      "underlinedTabForeground": "YellowA",
+      "inactiveUnderlineColor": "OrangeB",
       "borderColor": "GrayC"
     },
     "FileColor": {
@@ -255,8 +255,8 @@
     "GotItTooltip": {
       "background": "defaultBackgroundColor",
       "borderColor": "defaultBorderColor",
-      "shortcutForeground": "BlueA",
-      "linkForeground": "BlueA"
+      "shortcutForeground": "YellowA",
+      "linkForeground": "YellowA"
     },
     "GutterTooltip": {
       "infoForeground": "",
@@ -288,22 +288,22 @@
       "shortcutBackground": "defaultBackgroundColor"
     },
     "Link": {
-      "activeForeground": "BlueA",
-      "hoverForeground": "BlueA",
-      "pressedForeground": "BlueB",
-      "visitedForeground": "BlueB",
-      "secondaryForeground": "BlueB"
+      "activeForeground": "YellowA",
+      "hoverForeground": "YellowA",
+      "pressedForeground": "OrangeB",
+      "visitedForeground": "OrangeB",
+      "secondaryForeground": "OrangeB"
     },
     "List": {
       "Button": {
         "separatorColor": "#FFFFFF33",
         "separatorInset": 4,
-        "hoverBackground": "BlueA",
+        "hoverBackground": "OrangeA",
         "leftRightInset": 8
       },
       "Tag": {
         "background": "GrayC",
-        "foreground": "BlueA"
+        "foreground": "YellowA"
       }
     },
     "MainToolbar": {
@@ -348,7 +348,7 @@
       "MoreButton": {
         "background": "GrayC",
         "innerBorderColor": "GrayC",
-        "foreground": "BlueA"
+        "foreground": "YellowA"
       },
       "ToolWindow": {
         "informativeForeground": "Black",
@@ -391,15 +391,15 @@
       "eapTagBackground": "GrayC",
       "disabledForeground": "GrayB",
       "Button": {
-        "installForeground": "Black",
-        "installBackground": "BlueA",
-        "installBorderColor": "BlueA",
-        "installFillBackground": "BlueA",
-        "installFillForeground": "Black",
-        "installFocusedBackground": "BlueA",
-        "updateBackground": "BlueA",
-        "updateBorderColor": "BlueA",
-        "updateForeground": "Black"
+        "installForeground": "YellowA",
+        "installBackground": "OrangeA",
+        "installBorderColor": "OrangeA",
+        "installFillBackground": "OrangeA",
+        "installFillForeground": "YellowA",
+        "installFocusedBackground": "OrangeA",
+        "updateBackground": "OrangeA",
+        "updateBorderColor": "OrangeA",
+        "updateForeground": "YellowA"
       },
       "SearchField": {
         "background": "defaultBackgroundColor"
@@ -420,7 +420,7 @@
       "borderColor": "defaultBorderColor",
       "inactiveBorderColor": "GrayC",
       "Advertiser": {
-        "foreground": "BlueA",
+        "foreground": "YellowA",
         "background": "defaultBackgroundColor",
         "borderColor": "defaultBorderColor"
       },
@@ -436,7 +436,7 @@
       }
     },
     "ProgressBar": {
-      "progressColor": "BlueA",
+      "progressColor": "OrangeA",
       "indeterminateStartColor": "GrayB",
       "indeterminateEndColor": "GrayC",
       "trackColor": "defaultBackgroundColor"
@@ -448,7 +448,7 @@
     "RadioButton": {},
     "RadioButtonMenuItem": {},
     "RunWidget": {
-      "foreground": "BlueA",
+      "foreground": "YellowA",
       "runningBackground": "defaultBackgroundColor",
       "hoverBackground": "#00000019",
       "pressedBackground": "#00000028"
@@ -457,11 +457,11 @@
     "SearchEverywhere": {
       "List.settingsBackground": "GrayA",
       "Tab": {
-        "selectedBackground": "BlueA",
+        "selectedBackground": "OrangeA",
         "selectedForeground": "White"
       },
       "Advertiser": {
-        "foreground": "BlueA",
+        "foreground": "YellowA",
         "background": "defaultBackgroundColor",
         "borderInsets": "6,20,6,20"
       }
@@ -475,18 +475,18 @@
       "endBackground": "OrangeA"
     },
     "SearchOption": {
-      "selectedBackground": "BlueA",
-      "selectedHoveredBackground": "BlueB",
-      "selectedPressedBackground": "BlueB"
+      "selectedBackground": "OrangeA",
+      "selectedHoveredBackground": "OrangeB",
+      "selectedPressedBackground": "OrangeB"
     },
     "SegmentedButton": {
       "selectedStartBorderColor": "GrayB",
       "selectedEndBorderColor": "GrayB",
       "selectedButtonColor": "GrayC",
-      "focusedSelectedButtonColor": "BlueA"
+      "focusedSelectedButtonColor": "OrangeA"
     },
     "SpeedSearch": {
-      "foreground": "BlueA",
+      "foreground": "YellowA",
       "background": "defaultBackgroundColor",
       "borderColor": "defaultBorderColor",
       "errorForeground": "RedB"
@@ -512,7 +512,7 @@
       "tabSelectionArc": 4,
       "hoverColor": "GrayC",
       "contentAreaColor": "defaultBackgroundColor",
-      "focusColor": "BlueB"
+      "focusColor": "OrangeB"
     },
     "Table": {
       "gridColor": "GrayC",
@@ -524,7 +524,7 @@
     },
     "TextField": {
       "selectionForeground": "White",
-      "selectionBackground": "BlueA"
+      "selectionBackground": "OrangeA"
     },
     "TipOfTheDay": {
       "Image": {
@@ -547,16 +547,16 @@
         "inactiveBackground": "Black"
       },
       "HeaderTab": {
-        "underlinedTabBackground": "BlueB",
-        "underlineColor": "BlueA",
+        "underlinedTabBackground": "OrangeB",
+        "underlineColor": "OrangeA",
         "hoverInactiveBackground": "GrayC"
       },
-      "headerInactiveBackground": "BlueA",
+      "headerInactiveBackground": "OrangeA",
       "Button": {
-        "hoverBackground": "BlueB",
-        "hoverForeground": "Black",
-        "selectedForeground": "Black",
-        "selectedBackground": "BlueB"
+        "hoverBackground": "OrangeB",
+        "hoverForeground": "YellowA",
+        "selectedForeground": "YellowA",
+        "selectedBackground": "OrangeB"
       }
     },
     "ToolTip": {
@@ -576,12 +576,12 @@
     },
     "TextArea": {
       "selectionForeground": "White",
-      "selectionBackground": "BlueA"
+      "selectionBackground": "OrangeA"
     },
     "TextComponent": {},
     "TextPane": {
       "selectionForeground": "White",
-      "selectionBackground": "BlueA"
+      "selectionBackground": "OrangeA"
     },
     "ToggleButton": {},
     "UiDesigner": {},

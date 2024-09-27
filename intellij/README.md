@@ -1,6 +1,6 @@
-# One Pauintxi Theme - IntelliJ IDEA Community 2024
+# One Pauintxi Theme - IntelliJ
 
-**One Pauintxi Theme** is a sleek, minimalist dark theme for **IntelliJ IDEA Community 2024**, inspired by the popular One Dark theme. It’s designed for developers who enjoy a visually comfortable coding environment with high contrast and vibrant colors that enhance readability without straining the eyes.
+**One Pauintxi Theme** is a sleek, minimalist dark theme for **IntelliJ**, inspired by the popular One Dark theme. It’s designed for developers who enjoy a visually comfortable coding environment with high contrast and vibrant colors that enhance readability without straining the eyes.
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/marcosramon)
 
@@ -9,6 +9,18 @@
 ### One Pauintxi Theme Blue++
 
 ![One Pauintxi Theme Blue++ Screenshot](https://raw.githubusercontent.com/marcosramos87/one-pauintxi-theme/main/intellij/screenshots/one_pauintxi_blue++.png)
+
+### One Pauintxi Theme Blue
+
+![One Pauintxi Theme Blue++ Screenshot](https://raw.githubusercontent.com/marcosramos87/one-pauintxi-theme/main/intellij/screenshots/one_pauintxi_blue.png)
+
+### One Pauintxi Theme Orange++
+
+![One Pauintxi Theme Blue++ Screenshot](https://raw.githubusercontent.com/marcosramos87/one-pauintxi-theme/main/intellij/screenshots/one_pauintxi_orange++.png)
+
+### One Pauintxi Theme Orange
+
+![One Pauintxi Theme Blue++ Screenshot](https://raw.githubusercontent.com/marcosramos87/one-pauintxi-theme/main/intellij/screenshots/one_pauintxi_orange.png)
 
 ## Features
 
