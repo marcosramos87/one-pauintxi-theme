@@ -18,36 +18,77 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="one-pauintxi-blue++" path="/theme/one-pauintxi-all-blue.json" targetUi="new"/>
+        <themeProvider id="one-pauintxi-blue" path="/theme/one-pauintxi-blue.json" targetUi="new"/>
+        <themeProvider id="one-pauintxi-orange++" path="/theme/one-pauintxi-all-orange.json" targetUi="new"/>
+        <themeProvider id="one-pauintxi-orange" path="/theme/one-pauintxi-orange.json" targetUi="new"/>
     </extensions>
 
 
     <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
-    <description>
-        <![CDATA[
-            <h2>GitHub Themes for IntelliJ</h2>
+    <description><![CDATA[
+<h1>One Pauintxi Theme - IntelliJ IDEA Community 2024</h1>
 
-            <!-- Plugin description -->
+<p><strong>One Pauintxi Theme</strong> es un tema oscuro minimalista para <strong>IntelliJ IDEA Community 2024</strong>, inspirado en el popular tema One Dark. Está diseñado para desarrolladores que disfrutan de un entorno de codificación visualmente cómodo, con alto contraste y colores vibrantes que mejoran la legibilidad sin forzar la vista.</p>
 
-            <a href="https://plugins.jetbrains.com/plugin/20810-github-themes">GitHub Themes for IntelliJ</a> is inspired by <a href="https://github.com/primer/github-vscode-theme">GitHub's VS Code themes</a>.
+<h2>Screenshots</h2>
 
-            The development of this theme plugin focuses to bring the official GitHub color schemes as much as possible to your IntelliJ based IDEs, such as IntelliJ IDEA, PhpStorm, WebStorm, and PyCharm etc.
+<h3>One Pauintxi Theme Blue++</h3>
+<img src="https://raw.githubusercontent.com/marcosramos87/one-pauintxi-theme/main/intellij/screenshots/one_pauintxi_blue++.png" alt="One Pauintxi Theme Blue++ Screenshot" width="500" />
 
-            <!-- Plugin description end -->
+<h3>One Pauintxi Theme Blue</h3>
+<img src="https://raw.githubusercontent.com/marcosramos87/one-pauintxi-theme/main/intellij/screenshots/one_pauintxi_blue.png" alt="One Pauintxi Theme Blue Screenshot" width="500" />
 
-            <h2>Installation</h2>
+<h3>One Pauintxi Theme Orange++</h3>
+<img src="https://raw.githubusercontent.com/marcosramos87/one-pauintxi-theme/main/intellij/screenshots/one_pauintxi_orange++.png" alt="One Pauintxi Theme Orange++ Screenshot" width="500" />
 
-            <ul>
-                <li>
-                    Using IDE built-in plugin system:<br /><kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "GitHub Themes"</kbd> > <kbd>Install Plugin</kbd><br />
-                </li>
-                <li>
-                    Manually:<br /> Download the [latest release](https://github.com/iyashpal/intellij-github-themes/releases/latest) and install it manually using <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd><br />
-                </li>
-            </ul>
-        ]]>
-    </description>
+<h3>One Pauintxi Theme Orange</h3>
+<img src="https://raw.githubusercontent.com/marcosramos87/one-pauintxi-theme/main/intellij/screenshots/one_pauintxi_orange.png" alt="One Pauintxi Theme Orange Screenshot" width="500"/>
+
+<a href="https://buymeacoffee.com/marcosramon"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"></a>
+
+<h2>Características</h2>
+<ul>
+    <li>🌓 <strong>Modo Oscuro</strong>: Un fondo oscuro suave con colores vibrantes en primer plano.</li>
+    <li>🎨 <strong>Alto Contraste</strong>: Distinción clara entre palabras clave, cadenas, comentarios y otros elementos de sintaxis.</li>
+    <li>✨ <strong>Inspirado en One Dark</strong>: Familiar para los usuarios de One Dark, pero con ajustes sutiles para una experiencia más refinada.</li>
+    <li>🖼️ <strong>Hermosos Elementos UI</strong>: Estilo personalizado para elementos de UI como barras laterales, pestañas y barra de estado para integrarse perfectamente con el tema oscuro.</li>
+    <li>🔧 <strong>Soporte de Lenguajes</strong>: Optimizado para varios lenguajes como Java, Kotlin, Python, HTML, CSS, JavaScript, TypeScript y más.</li>
+</ul>
+
+<h2>Instalación</h2>
+<ol>
+    <li>Abre <strong>IntelliJ IDEA</strong>.</li>
+    <li>Ve a <strong>File</strong> > <strong>Settings</strong> > <strong>Plugins</strong>.</li>
+    <li>Haz clic en <strong>Marketplace</strong> y busca <code>One Pauintxi Theme</code>.</li>
+    <li>Haz clic en <strong>Instalar</strong>.</li>
+    <li>Ve a <strong>File</strong> > <strong>Settings</strong> > <strong>Appearance & Behavior</strong> > <strong>Appearance</strong>.</li>
+    <li>En <strong>Theme</strong>, selecciona <code>One Pauintxi Theme</code> y aplica los cambios.</li>
+</ol>
+
+<h2>Personalización</h2>
+<p>Si deseas ajustar el tema a tu gusto, puedes personalizarlo siguiendo estos pasos:</p>
+<ol>
+    <li>Ve a <strong>File</strong> > <strong>Settings</strong> > <strong>Editor</strong> > <strong>Color Scheme</strong>.</li>
+    <li>Elige el esquema de color que deseas modificar.</li>
+    <li>Personaliza los colores según tus preferencias y guarda los cambios.</li>
+</ol>
+
+<h2>Problemas y Feedback</h2>
+<p>Si encuentras algún problema, tienes sugerencias o deseas solicitar nuevas funciones, no dudes en <a href="https://github.com/marcosramos87/one-pauintxi-theme/issues">abrir un issue en GitHub</a>.</p>
+
+<h2>Contribuciones</h2>
+<p>¡Las contribuciones son bienvenidas! Siéntete libre de hacer un fork del repositorio y crear un pull request con tus cambios. Si planeas agregar cambios significativos, abre primero un issue para discutir lo que te gustaría cambiar.</p>
+
+<h2>Licencia</h2>
+<p>Este tema está bajo la <a href="https://github.com/marcosramos87/one-pauintxi-theme/tree/main?tab=MIT-1-ov-file">licencia MIT</a>.</p>
+
+<hr />
+
+<p>¡Disfruta codificando con <strong>One Pauintxi Theme</strong> y mantente productivo! 🚀</p>
+]]></description>
+
 
 
     <!-- Short summary of new features and bugfixes in the latest plugin version.
