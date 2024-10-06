@@ -28,9 +28,9 @@
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
     <description><![CDATA[
-<h1>One Pauintxi Theme - IntelliJ IDEA Community 2024</h1>
+<h1>One Pauintxi Theme - IntelliJ/h1>
 
-<p><strong>One Pauintxi Theme</strong> es un tema oscuro minimalista para <strong>IntelliJ IDEA Community 2024</strong>, inspirado en el popular tema One Dark. Está diseñado para desarrolladores que disfrutan de un entorno de codificación visualmente cómodo, con alto contraste y colores vibrantes que mejoran la legibilidad sin forzar la vista.</p>
+<p><strong>One Pauintxi Theme</strong> es un tema oscuro minimalista para <strong>IntelliJ</strong>, inspirado en el popular tema One Dark. Está diseñado para desarrolladores que disfrutan de un entorno de codificación visualmente cómodo, con alto contraste y colores vibrantes que mejoran la legibilidad sin forzar la vista.</p>
 
 <h2>Screenshots</h2>
 
