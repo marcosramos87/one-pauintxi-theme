@@ -6,21 +6,21 @@
 
 ## Screenshots
 
-### One Pauintxi Theme Blue++
-
-![One Pauintxi Theme Blue++ Screenshot](https://raw.githubusercontent.com/marcosramos87/one-pauintxi-theme/main/intellij/screenshots/one_pauintxi_blue++.png)
-
 ### One Pauintxi Theme Blue
 
 ![One Pauintxi Theme Blue++ Screenshot](https://raw.githubusercontent.com/marcosramos87/one-pauintxi-theme/main/intellij/screenshots/one_pauintxi_blue.png)
 
-### One Pauintxi Theme Orange++
+### One Pauintxi Theme Blue++
 
-![One Pauintxi Theme Blue++ Screenshot](https://raw.githubusercontent.com/marcosramos87/one-pauintxi-theme/main/intellij/screenshots/one_pauintxi_orange++.png)
+![One Pauintxi Theme Blue++ Screenshot](https://raw.githubusercontent.com/marcosramos87/one-pauintxi-theme/main/intellij/screenshots/one_pauintxi_blue++.png)
 
 ### One Pauintxi Theme Orange
 
 ![One Pauintxi Theme Blue++ Screenshot](https://raw.githubusercontent.com/marcosramos87/one-pauintxi-theme/main/intellij/screenshots/one_pauintxi_orange.png)
+
+### One Pauintxi Theme Orange++
+
+![One Pauintxi Theme Blue++ Screenshot](https://raw.githubusercontent.com/marcosramos87/one-pauintxi-theme/main/intellij/screenshots/one_pauintxi_orange++.png)
 
 ## Features
 

@@ -2,7 +2,7 @@
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>com.one-pauintxi-theme.marcosramos87.intellijonepauintxitheme</id>
-    <version>1.0.2</version>
+    <version>2.0.0</version>
 
     <!-- Public plugin name should be written in Title Case. Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
     <name>One Pauintxi Theme</name>
@@ -11,16 +11,16 @@
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
     <vendor email="marcosramosadsuara@gmail.com" url="https://github.com/marcosramos87">Marcos Ramos Adsuara</vendor>
 
-    <idea-version since-build="222" until-build="243.*"/>
+    <idea-version since-build="222" until-build="252.*"/>
 
     <!-- Product and plugin compatibility requirements. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="one-pauintxi-blue++" path="/theme/one-pauintxi-all-blue.json" targetUi="new"/>
         <themeProvider id="one-pauintxi-blue" path="/theme/one-pauintxi-blue.json" targetUi="new"/>
-        <themeProvider id="one-pauintxi-orange++" path="/theme/one-pauintxi-all-orange.json" targetUi="new"/>
+        <themeProvider id="one-pauintxi-blue++" path="/theme/one-pauintxi-all-blue.json" targetUi="new"/>
         <themeProvider id="one-pauintxi-orange" path="/theme/one-pauintxi-orange.json" targetUi="new"/>
+        <themeProvider id="one-pauintxi-orange++" path="/theme/one-pauintxi-all-orange.json" targetUi="new"/>
     </extensions>
 
 
@@ -34,17 +34,17 @@
 
 <h2>Screenshots</h2>
 
-<h3>One Pauintxi Theme Blue++</h3>
-<img src="https://raw.githubusercontent.com/marcosramos87/one-pauintxi-theme/main/intellij/screenshots/one_pauintxi_blue++.png" alt="One Pauintxi Theme Blue++ Screenshot" width="500" />
-
 <h3>One Pauintxi Theme Blue</h3>
 <img src="https://raw.githubusercontent.com/marcosramos87/one-pauintxi-theme/main/intellij/screenshots/one_pauintxi_blue.png" alt="One Pauintxi Theme Blue Screenshot" width="500" />
 
-<h3>One Pauintxi Theme Orange++</h3>
-<img src="https://raw.githubusercontent.com/marcosramos87/one-pauintxi-theme/main/intellij/screenshots/one_pauintxi_orange++.png" alt="One Pauintxi Theme Orange++ Screenshot" width="500" />
+<h3>One Pauintxi Theme Blue++</h3>
+<img src="https://raw.githubusercontent.com/marcosramos87/one-pauintxi-theme/main/intellij/screenshots/one_pauintxi_blue++.png" alt="One Pauintxi Theme Blue++ Screenshot" width="500" />
 
 <h3>One Pauintxi Theme Orange</h3>
 <img src="https://raw.githubusercontent.com/marcosramos87/one-pauintxi-theme/main/intellij/screenshots/one_pauintxi_orange.png" alt="One Pauintxi Theme Orange Screenshot" width="500"/>
+
+<h3>One Pauintxi Theme Orange++</h3>
+<img src="https://raw.githubusercontent.com/marcosramos87/one-pauintxi-theme/main/intellij/screenshots/one_pauintxi_orange++.png" alt="One Pauintxi Theme Orange++ Screenshot" width="500" />
 
 <a href="https://buymeacoffee.com/marcosramon"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"></a>
 
