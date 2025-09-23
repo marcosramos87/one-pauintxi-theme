@@ -224,7 +224,7 @@
       "name": "java source",
       "scope": "source.java",
       "settings": {
-        "foreground": "#df4649"
+        "foreground": "#ecdbb5"
       }
     },
     {
@@ -1861,15 +1861,15 @@
     "activityBar.inactiveForeground": "#ffffff66",
     "activityBarBadge.foreground": "#282828",
     "activityBarBadge.background": "#49a3a6",
-    "activityBar.border": "#ffffff00",
+    "activityBar.border": "#282828",
     "activityBar.activeBackground": "#49a3a625",
-    "sideBar.background": "#282828",
+    "sideBar.background": "#181818",
     "sideBar.foreground": "#aaa",
     "sideBarSectionHeader.background": "#202020",
     "sideBarSectionHeader.foreground": "#49a3a6",
     "sideBarSectionHeader.border": "#cccccc00",
     "sideBarTitle.foreground": "#49a3a6",
-    "sideBar.border": "#181818",
+    "sideBar.border": "#282828",
     "list.inactiveSelectionBackground": "#49a3a625",
     "list.inactiveSelectionForeground": "#49a3a6",
     "list.hoverBackground": "#49a3a625",
@@ -1913,7 +1913,7 @@
     "button.secondaryForeground": "#49a3a6",
     "button.secondaryBackground": "#3a3d41",
     "button.secondaryHoverBackground": "#45494e",
-    "input.background": "#3c3c3c",
+    "input.background": "#202020",
     "input.border": "#00000000",
     "input.foreground": "#49a3a6",
     "inputOption.activeBackground": "#49a3a650",
